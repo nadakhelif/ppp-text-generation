@@ -26,7 +26,7 @@ The same is done for the news generation
 
 To install the Poem Generation Application, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-repo.git`
+1. Clone the repository: `git clone https://github.com/nadakhelif/ppp-text-generation.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Usage
