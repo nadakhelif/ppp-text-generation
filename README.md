@@ -1,6 +1,6 @@
-# Poem Generation Application
+# Poem and News Generation Application
 
-Welcome to the **Poem Generation Application**! This application leverages the power of transformer models and FastAI to generate creative and unique poems. Whether you need inspiration, want to explore different poetic forms, or simply enjoy reading and generating poems, this application has got you covered.
+Welcome to the **Poem and News Generation Application**! This application leverages the power of transformer models and FastAI to generate creative and unique poems and news . Whether you need inspiration, want to explore different poetic forms, or simply enjoy reading and generating poems, this application has got you covered.
 ![image](https://github.com/nadakhelif/ppp-text-generation/assets/92679701/523f94b1-ec09-412a-bbc5-f4c3841618f2)
 
 ![image](https://github.com/nadakhelif/ppp-text-generation/assets/92679701/1f48acd4-98df-4622-bb9c-a6947bfd409d)
@@ -21,6 +21,7 @@ Welcome to the **Poem Generation Application**! This application leverages the p
 ## Introduction
 
 In this application, we utilize a pretrained transformer model, specifically **GPT-2**, to generate poems. By fine-tuning the model on a dataset of poems, we enable it to learn the patterns, styles, and themes present in poetry. The application provides an interactive interface where you can input a prompt or a few lines of text, and the model will generate a poem based on the given input.
+The same is done for the news generation
 
 ## Installation
 
