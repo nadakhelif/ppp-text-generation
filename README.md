@@ -1,6 +1,10 @@
 # Poem Generation Application
 
 Welcome to the **Poem Generation Application**! This application leverages the power of transformer models and FastAI to generate creative and unique poems. Whether you need inspiration, want to explore different poetic forms, or simply enjoy reading and generating poems, this application has got you covered.
+![image](https://github.com/nadakhelif/ppp-text-generation/assets/92679701/523f94b1-ec09-412a-bbc5-f4c3841618f2)
+
+![image](https://github.com/nadakhelif/ppp-text-generation/assets/92679701/1f48acd4-98df-4622-bb9c-a6947bfd409d)
+
 
 ## Table of Contents
 
