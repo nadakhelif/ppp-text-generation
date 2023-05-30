@@ -15,8 +15,7 @@ Welcome to the **Poem and News Generation Application**! This application levera
 - [**Model Fine-tuning**](#model-fine-tuning)
 - [**Poem Generation**](#poem-generation)
 - [**Examples**](#examples)
-- [**Contributing**](#contributing)
-- [**License**](#license)
+
 
 ## Introduction
 
